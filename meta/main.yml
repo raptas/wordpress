@@ -1,6 +1,7 @@
 ---
 galaxy_info:
   author: "Asad Rao"
+  description: This role will install and configure wordpress
   company: iVolve Technologies
   license: BSD
   min_ansible_version: 1.4
